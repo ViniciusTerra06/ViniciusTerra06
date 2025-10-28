@@ -2,21 +2,21 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=130&lines=Desenvolvedor+backend;Apaixonado+por+Tecnologia;Ca%C3%A7ador+de+conhecimentos+🎯)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=130&lines=Desenvolvedor+backend;Apaixonado+por+Tecnologia;Ca%C3%A7ador+de+conhecimentos+🎯)
 
 </div>
 
 ---
 
 ## 🤓 Sobre Mim
-
 ```javascript
 const desenvolvedor = {
     nome: "Vinicius Santos Terra",
     localizacao: "RS - Brasil 🇧🇷",
-    area: "Desenvolvimento backend",
-    linguagens: ["Java", "Python", "C"],
-    ferramentas: ["MYSQL Workbeanch", "Oracle Live SQL", "Docker"],
+    area: "Desenvolvimento Full-Stack",
+    linguagens: ["Java", "Python", "C", "JavaScript"],
+    frontend: ["HTML", "CSS", "JavaScript"],
+    ferramentas: ["MYSQL Workbench", "Oracle Live SQL", "Docker", "Google Cloud", "Microsoft Azure", "N8N"],
     foco_atual: "Aprendendo sobre automações de tarefas e masterização de skills em python",
     hobby: "Contribuir com o aprendizado de novos desenvolvedores através de comunidades e trocas de conhecimentos"
 };
@@ -37,9 +37,21 @@ const desenvolvedor = {
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+### Automação
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 </div>
@@ -80,7 +92,8 @@ const desenvolvedor = {
 ### 💡 Curiosidade
 ```
 Linguagem favorita atual: Python
-Projeto mais orgulhoso: Chatinho(Ainda em andamento, mas me orgulho de como ele está sendo bem desenvolvido)
+Projeto mais orgulhoso: Chatinho (Ainda em andamento, mas me orgulho de como ele está sendo bem desenvolvido)
+Expertise em automação: N8N workflows
 ```
 
 ### 🎮 Quando não estou codando
